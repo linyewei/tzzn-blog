@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: 投赚指南 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 万一免五，低佣开户 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   投资赚钱指南, 万一免五低佣开户。
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: linyewei # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
