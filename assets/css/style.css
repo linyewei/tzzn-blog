@@ -1,0 +1,4 @@
+img[loading="lazy"] {
+  opacity: 1 !important;
+  transition: none !important;
+}
