@@ -1,4 +1,10 @@
-img[loading="lazy"] {
-  opacity: 1 !important;
+/* 修复图片加载时的闪烁/淡入问题 */
+a.img-link.shimmer::before,
+.post-content img[loading="lazy"] {
+  /* 禁用过渡动画 */
   transition: none !important;
+  /* 强制不透明 */
+  opacity: 1 !important;
+  /* 彻底禁用 shimmer 动画效果 */
+  animation: none !important;
 }
